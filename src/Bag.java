@@ -1,4 +1,5 @@
 
+
 //very simple java 8 example
 //Alireza Aghamohammadi
 public class Bag {
